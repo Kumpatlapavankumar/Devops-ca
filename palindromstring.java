@@ -1,4 +1,5 @@
 import java.util.*;
+//excellent work
 public class palindromstring{
     public static void main(String[] args){
         String name="madam";
