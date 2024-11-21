@@ -7,6 +7,7 @@ class Node{
         left=right=null;
     }
 }
+//edited
 class Tree{
     Node root;
     Tree(){
